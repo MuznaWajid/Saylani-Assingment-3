@@ -1,0 +1,170 @@
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.header {
+    background-color: blue;
+    color: white;
+    padding: 10px 0px;
+}
+
+
+/* .heading1 {
+    text-align: center;
+} */
+
+.Logo {
+    display: inline;
+}
+
+.Logo ul,
+.Logo ul li,
+.Logo h3 {
+    display: inline;
+}
+
+.Logo h3 {
+    font-size: large;
+}
+
+.sider {
+    text-align: right;
+    display: inline-block;
+}
+
+.news {
+    border-color: honeydew;
+    background-color: blue;
+    color: white;
+    width: 1110px;
+    height: 40px;
+    text-align: center;
+}
+
+.para {
+    text-align: center;
+}
+
+.heading2 {
+    text-align: center;
+    display: inline;
+}
+
+.IN {
+    color: rgba(22, 70, 201, 0.932);
+}
+
+.DU {
+    color: rgba(4, 68, 4, 0.74);
+}
+
+.line1 {
+    color: rgba(4, 68, 4, 0.74);
+}
+
+.heading3 {
+    text-align: center;
+}
+
+.Wh {
+    color: rgba(22, 70, 201, 0.932);
+}
+
+.card {
+    background-color: whitesmoke;
+    /* width: 300px; */
+    border: 15px solid white;
+    padding: 50px;
+    margin: 20px;
+    opacity: 0.7;
+    width: 300px;
+    height: 200px;
+    box-shadow: 10px 10px 5px grey;
+    /* display: inline-block; */
+}
+
+.Are {
+    color: rgba(4, 68, 4, 0.74);
+}
+
+.heading4 {
+    text-align: center;
+}
+
+.heading5 {
+    text-align: center;
+}
+
+.heading6 {
+    text-align: center;
+}
+
+.heading7 {
+    text-align: center;
+}
+
+.heading8 {
+    text-align: center;
+}
+
+.heading9 {
+    text-align: left;
+    color: rgba(22, 70, 201, 0.932);
+}
+
+.images {
+    text-align: center;
+}
+
+.images img {
+    width: 200px;
+}
+
+.images img:hover {
+    transform: scaleX(-1);
+}
+
+.heading10 {
+    text-align: center;
+}
+
+.IM {
+    color: rgba(22, 70, 201, 0.932);
+}
+
+.GE {
+    color: rgba(4, 68, 4, 0.74);
+}
+
+.container1 {
+    background-color: rgb(32, 23, 23);
+}
+
+.center-container {
+    background-color: blue;
+    padding: 15px;
+}
+
+.HEADING {
+    color: white;
+}
+
+.footer-container {
+    background-color: black;
+    color: white;
+    padding: 15px;
+}
+
+.fas {
+    color: green;
+}
+
+.Copy {
+    background-color: blue;
+    padding: 15px;
+    color: white;
+}
+
+section.navbar a:hover {
+    background-color: rgba(19, 19, 247, 0.89);
+}
